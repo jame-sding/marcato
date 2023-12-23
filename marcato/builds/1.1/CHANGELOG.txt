@@ -1,5 +1,0 @@
-1.1
-
-- Updated GUI
-- Added progress bar for playlists, and direction label for individual songs
-- Now has an error log

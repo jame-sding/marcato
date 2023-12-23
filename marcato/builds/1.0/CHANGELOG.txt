@@ -1,6 +1,0 @@
-1.0
-
-- Full release
-- Downloads to the specified location
-- Added ability to download single song from Spotify, and a playlist from YouTube
-- Searching for songs uses Pytube

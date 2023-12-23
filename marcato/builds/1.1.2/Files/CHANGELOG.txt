@@ -1,7 +1,0 @@
-1.1.2
-
-- Added info label when on the playlist setting (100 song Spotify playlist limit, some songs are unavailable on YouTube playlists)
-- Progress bar for songs
-- Smoother progress bar for playlists
-- When downloading a playlist, songs now get downloaded into their own folder
-- Changed the music searching algorithm

@@ -1,6 +1,0 @@
-1.1.4
-
-- Added download video as mp4 option
-- Changed the YouTube video finding algorithm
-- Downloaded audio is now normalized
-- marcato will now try to look for another YouTube video if the one it tried to download is age-restricted (and hence cannot be downloaded)

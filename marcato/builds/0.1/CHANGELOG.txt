@@ -1,4 +1,0 @@
-0.1
-
-- First prototype of application
-- BUG: Cannot convert files into mp3
