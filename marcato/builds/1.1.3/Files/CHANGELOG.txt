@@ -1,0 +1,4 @@
+1.1.3
+
+- Fixed critical bug with how the progress bar was updated that caused the program to crash
+- Added ability to cancel playlist download

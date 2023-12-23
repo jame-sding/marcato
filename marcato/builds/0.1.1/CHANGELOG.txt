@@ -1,0 +1,5 @@
+0.1.1
+
+- Now is able to properly download mp3 files
+- BUG: Doesn't download to the specified location
+ - Actually downloads to the location's parent directory
